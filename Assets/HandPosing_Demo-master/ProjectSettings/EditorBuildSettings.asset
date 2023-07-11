@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PrivacyCheckScene.unity
+    guid: 3f93484ddcc555f4f8815bcc33cea203
+  - enabled: 1
+    path: Assets/Scenes/Warning.unity
+    guid: 7c0e6d9004e246244a6e8dc39507fddf
+  - enabled: 1
+    path: Assets/Scenes/PirateShip.unity
+    guid: 553fd3db7ea97fd43983526c2dfdc5ce
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 408c2b5ed5035e14aa9fb0011a8eef25,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0d0b0582c885e044f9c1d0e9ec3790b8,
+      type: 2}
